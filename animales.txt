@@ -2,3 +2,8 @@ León
 Tortuga
 Delfin
 Dinosaurio
+Modificado desde github
+gato
+perro
+zorro
+loro
